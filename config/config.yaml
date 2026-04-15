@@ -406,7 +406,7 @@ storage:
 # ===============================================================
 ai:
   # 使用 OpenRouter 的 Qwen 3.6 Plus 免费模型
-  model: "zhipuai/glm-4-flash-250207:free"  # 或其他智谱免费模型ID
+  model: "openrouter/zhipuai/glm-4-flash-250207:free"
   api_key: ${OPENROUTER_API_KEY}
   api_base: "https://openrouter.ai/api/v1"
   
